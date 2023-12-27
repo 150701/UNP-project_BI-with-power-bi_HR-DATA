@@ -1,1 +1,9 @@
 # UNP-project_BI-with-power-bi_HR-DATA
+Key highlights:
+Employee satisfaction
+Total employee turnover
+Total headcount per year
+Average yearly headcount
+PDF,canva link:
+https://drive.google.com/file/d/1DXlWgr07IA2uCk-VzrKbNyqKdPRsusoC/view?usp=sharing
+https://drive.google.com/file/d/1cv9dyVJHhAHOiwZZAB500jIX60XxiWvT/view?usp=sharing
