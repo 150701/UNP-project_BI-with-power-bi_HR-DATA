@@ -1,4 +1,4 @@
-# UNP-Project_BI-with-power-bi_HR-DATA
+# UNP-Project_BI-with-Power-Bi_HR-DATA
 Key highlights:
 Employee satisfaction,
 Total employee turnover,
